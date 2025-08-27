@@ -22,6 +22,7 @@ class MainActivity : ComponentActivity() {
                 //Alfredo Puentes Vargas
                 //22130803
                 //Desarrollo de aplicaciones en android
+                //2025
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
                         name = "Android",
